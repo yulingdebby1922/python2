@@ -1,0 +1,2230 @@
+[
+  {
+    "element_id": "7e7565cdf79826a959f644d864bcc3f6",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            44.24999815625,
+            78.78954748710214
+          ],
+          [
+            44.24999815625,
+            87.78954711210213
+          ],
+          [
+            100.49999581249999,
+            87.78954711210213
+          ],
+          [
+            100.49999581249999,
+            78.78954748710214
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "交易明細查詢",
+    "type": "Title"
+  },
+  {
+    "element_id": "92784858c7fb10b7ec50f7035cff808e",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            77.33202802783202,
+            107.2895462996022
+          ],
+          [
+            77.33202802783202,
+            116.28954592460218
+          ],
+          [
+            126.43651819181152,
+            116.28954592460218
+          ],
+          [
+            126.43651819181152,
+            107.2895462996022
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "7e7565cdf79826a959f644d864bcc3f6"
+    },
+    "text": "⽤⼾ID/⼾名",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "780db4f9b784322cad94809b0788ae26",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            108.44530798144531,
+            133.53954520585216
+          ],
+          [
+            108.44530798144531,
+            142.53954483085215
+          ],
+          [
+            126.44530723144531,
+            142.53954483085215
+          ],
+          [
+            126.44530723144531,
+            133.53954520585216
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "帳號",
+    "type": "Title"
+  },
+  {
+    "element_id": "71098f694d8e95fc7bc5b04e39486afa",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            108.44530798144531,
+            159.78954411210213
+          ],
+          [
+            108.44530798144531,
+            168.78954373710212
+          ],
+          [
+            126.44530723144531,
+            168.78954373710212
+          ],
+          [
+            126.44530723144531,
+            159.78954411210213
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "幣別",
+    "type": "Title"
+  },
+  {
+    "element_id": "2522eb3756b8bc6854088ebfc01e9ee8",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            90.44530873144531,
+            186.0395430183521
+          ],
+          [
+            90.44530873144531,
+            195.0395426433521
+          ],
+          [
+            126.44530723144531,
+            195.0395426433521
+          ],
+          [
+            126.44530723144531,
+            186.0395430183521
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "明細類別",
+    "type": "Title"
+  },
+  {
+    "element_id": "7377913dae491e4e97fe03d86cc8f7c4",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            90.44530873144531,
+            212.28954192460208
+          ],
+          [
+            90.44530873144531,
+            221.28954154960206
+          ],
+          [
+            126.44530723144531,
+            221.28954154960206
+          ],
+          [
+            126.44530723144531,
+            212.28954192460208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "查詢期間",
+    "type": "Title"
+  },
+  {
+    "element_id": "3e70c54eeee51edf9cfed438edff14a5",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            34.71093605371094,
+            244.53954058085208
+          ],
+          [
+            34.71093605371094,
+            253.53954020585206
+          ],
+          [
+            52.71093530371094,
+            253.53954020585206
+          ],
+          [
+            52.71093530371094,
+            244.53954058085208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "序號",
+    "type": "Title"
+  },
+  {
+    "element_id": "73ca1505ee57715780643f0bce1997ac",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            71.29687202929688,
+            244.53954058085208
+          ],
+          [
+            71.29687202929688,
+            253.53954020585206
+          ],
+          [
+            107.29687052929688,
+            253.53954020585206
+          ],
+          [
+            107.29687052929688,
+            244.53954058085208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "交易⽇期",
+    "type": "Title"
+  },
+  {
+    "element_id": "4bed0ac508f4481761a233a50589bcaa",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            41.097654537597656,
+            273.03953939335213
+          ],
+          [
+            41.097654537597656,
+            282.0395390183521
+          ],
+          [
+            46.31396288025147,
+            282.0395390183521
+          ],
+          [
+            46.31396288025147,
+            273.03953939335213
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "73ca1505ee57715780643f0bce1997ac"
+    },
+    "text": "1",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "4cdffe6867cab859830e5d8a18594e8a",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            64.67577855517578,
+            273.03953939335213
+          ],
+          [
+            64.67577855517578,
+            282.0395390183521
+          ],
+          [
+            113.91210440366211,
+            282.0395390183521
+          ],
+          [
+            113.91210440366211,
+            273.03953939335213
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "73ca1505ee57715780643f0bce1997ac"
+    },
+    "text": "2024/07/08",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "1bd0ba778516335f1790a0e939cfcebd",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            41.097654537597656,
+            300.7895382371022
+          ],
+          [
+            41.097654537597656,
+            309.7895378621022
+          ],
+          [
+            46.31396288025147,
+            309.7895378621022
+          ],
+          [
+            46.31396288025147,
+            300.7895382371022
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "73ca1505ee57715780643f0bce1997ac"
+    },
+    "text": "2",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "fe3d404f784464214bf21698e0ef00d0",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            64.67577855517578,
+            300.7895382371022
+          ],
+          [
+            64.67577855517578,
+            309.7895378621022
+          ],
+          [
+            113.91210440366211,
+            309.7895378621022
+          ],
+          [
+            113.91210440366211,
+            300.7895382371022
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "73ca1505ee57715780643f0bce1997ac"
+    },
+    "text": "2024/07/08",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "70fe6cce06cbaf8f9c4f68052bd9b412",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            41.097654537597656,
+            328.53953708085214
+          ],
+          [
+            41.097654537597656,
+            337.5395367058521
+          ],
+          [
+            46.31396288025147,
+            337.5395367058521
+          ],
+          [
+            46.31396288025147,
+            328.53953708085214
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "73ca1505ee57715780643f0bce1997ac"
+    },
+    "text": "3",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "18012f1cfbb1448ae4ab3ebe6eeb4f27",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            64.67577855517578,
+            328.53953708085214
+          ],
+          [
+            64.67577855517578,
+            337.5395367058521
+          ],
+          [
+            113.91210440366211,
+            337.5395367058521
+          ],
+          [
+            113.91210440366211,
+            328.53953708085214
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "73ca1505ee57715780643f0bce1997ac"
+    },
+    "text": "2024/07/08",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "3ea92d17256994e9abc3df2522e696e0",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            73.72265317822266,
+            360.7895357371021
+          ],
+          [
+            73.72265317822266,
+            369.7895353621021
+          ],
+          [
+            91.72265242822266,
+            369.7895353621021
+          ],
+          [
+            91.72265242822266,
+            360.7895357371021
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "幣別",
+    "type": "Title"
+  },
+  {
+    "element_id": "2e4720f8cfc6823035993fd64a05819f",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            57.5624976015625,
+            388.5395345808521
+          ],
+          [
+            57.5624976015625,
+            397.5395342058521
+          ],
+          [
+            107.87987829500489,
+            397.5395342058521
+          ],
+          [
+            107.87987829500489,
+            388.5395345808521
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "TWD 新臺幣",
+    "type": "Title"
+  },
+  {
+    "element_id": "9dbdc949d24cdbc1f335bee83c3e4269",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            146.6953063876953,
+            107.2895462996022
+          ],
+          [
+            146.6953063876953,
+            116.28954592460218
+          ],
+          [
+            307.6757681601757,
+            116.28954592460218
+          ],
+          [
+            307.6757681601757,
+            107.2895462996022
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "24721773 台灣智慧⽣活網股份有限公司",
+    "type": "Title"
+  },
+  {
+    "element_id": "0d81ae7651a356dfdaa92b68848fa0c6",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            146.6953063876953,
+            133.53954520585216
+          ],
+          [
+            146.6953063876953,
+            142.53954483085215
+          ],
+          [
+            269.6279181155029,
+            142.53954483085215
+          ],
+          [
+            269.6279181155029,
+            133.53954520585216
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "9dbdc949d24cdbc1f335bee83c3e4269"
+    },
+    "text": "029-001-0001859-8 臺幣活存",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "21d73e24b6a57f7836973378e711b2e7",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            146.6953063876953,
+            159.78954411210213
+          ],
+          [
+            146.6953063876953,
+            168.78954373710212
+          ],
+          [
+            197.0126870811377,
+            168.78954373710212
+          ],
+          [
+            197.0126870811377,
+            159.78954411210213
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "TWD 新臺幣",
+    "type": "Title"
+  },
+  {
+    "element_id": "0e6f4a7a44b0f94098da08d6e812eccb",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            146.6953063876953,
+            186.0395430183521
+          ],
+          [
+            146.6953063876953,
+            195.0395426433521
+          ],
+          [
+            164.69530563769527,
+            195.0395426433521
+          ],
+          [
+            164.69530563769527,
+            186.0395430183521
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "全部",
+    "type": "Title"
+  },
+  {
+    "element_id": "dce34b1c7a0810d5475b5a0b984a8573",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            146.6953063876953,
+            212.28954192460208
+          ],
+          [
+            146.6953063876953,
+            221.28954154960206
+          ],
+          [
+            195.93163223618163,
+            221.28954154960206
+          ],
+          [
+            195.93163223618163,
+            212.28954192460208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "0e6f4a7a44b0f94098da08d6e812eccb"
+    },
+    "text": "2024/07/08",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "c545582d61ae61942de242096d896eb2",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            131.71874451171874,
+            244.53954058085208
+          ],
+          [
+            131.71874451171874,
+            253.53954020585206
+          ],
+          [
+            167.71874301171871,
+            253.53954020585206
+          ],
+          [
+            167.71874301171871,
+            244.53954058085208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "交易時間",
+    "type": "Title"
+  },
+  {
+    "element_id": "f5c27b5aad12be1e9739783417f0e3bb",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            192.15233949365216,
+            244.53954058085208
+          ],
+          [
+            192.15233949365216,
+            253.53954020585206
+          ],
+          [
+            228.15233799365214,
+            253.53954020585206
+          ],
+          [
+            228.15233799365214,
+            244.53954058085208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "入帳⽇期",
+    "type": "Title"
+  },
+  {
+    "element_id": "d790f97e1d52bf898bed756da83e3e04",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            261.57421160107407,
+            244.53954058085208
+          ],
+          [
+            261.57421160107407,
+            253.53954020585206
+          ],
+          [
+            279.57421085107404,
+            253.53954020585206
+          ],
+          [
+            279.57421085107404,
+            244.53954058085208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "摘要",
+    "type": "Title"
+  },
+  {
+    "element_id": "71c2e6999d869d5178028d2052070aa0",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            131.99999449999999,
+            273.03953939335213
+          ],
+          [
+            131.99999449999999,
+            282.0395390183521
+          ],
+          [
+            167.44628188307126,
+            282.0395390183521
+          ],
+          [
+            167.44628188307126,
+            273.03953939335213
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "d790f97e1d52bf898bed756da83e3e04"
+    },
+    "text": "12:17:59",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "b450f70dc65eae035c5abe8831e30972",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            185.53124226953125,
+            273.03953939335213
+          ],
+          [
+            185.53124226953125,
+            282.0395390183521
+          ],
+          [
+            271.2773361967771,
+            282.0395390183521
+          ],
+          [
+            271.2773361967771,
+            273.03953939335213
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "d790f97e1d52bf898bed756da83e3e04"
+    },
+    "text": "2024/07/08 電⼦入",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "14b2fefbeadc1831e3cbc2629729dce9",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            131.99999449999999,
+            300.7895382371022
+          ],
+          [
+            131.99999449999999,
+            309.7895378621022
+          ],
+          [
+            167.44628188307126,
+            309.7895378621022
+          ],
+          [
+            167.44628188307126,
+            300.7895382371022
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "d790f97e1d52bf898bed756da83e3e04"
+    },
+    "text": "13:59:22",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "913a0605a8d15d270265bbfdd8a00ee0",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            185.53124226953125,
+            300.7895382371022
+          ],
+          [
+            185.53124226953125,
+            309.7895378621022
+          ],
+          [
+            271.2773361967771,
+            309.7895378621022
+          ],
+          [
+            271.2773361967771,
+            300.7895382371022
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "d790f97e1d52bf898bed756da83e3e04"
+    },
+    "text": "2024/07/08 ⼿續費",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "01a8cbf4db7b4ddf25fd66771c8783ae",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            131.99999449999999,
+            328.53953708085214
+          ],
+          [
+            131.99999449999999,
+            337.5395367058521
+          ],
+          [
+            167.44628188307126,
+            337.5395367058521
+          ],
+          [
+            167.44628188307126,
+            328.53953708085214
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "d790f97e1d52bf898bed756da83e3e04"
+    },
+    "text": "14:12:15",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "a505174e5a1f3019845680a6834491ec",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            185.53124226953125,
+            328.53953708085214
+          ],
+          [
+            185.53124226953125,
+            337.5395367058521
+          ],
+          [
+            262.27733657177714,
+            337.5395367058521
+          ],
+          [
+            262.27733657177714,
+            328.53953708085214
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "d790f97e1d52bf898bed756da83e3e04"
+    },
+    "text": "2024/07/08 轉帳",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "3e1242993cb9f8b00c9b4fd8bde68cf5",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            226.2656155722656,
+            360.7895357371021
+          ],
+          [
+            226.2656155722656,
+            369.7895353621021
+          ],
+          [
+            262.2656140722656,
+            369.7895353621021
+          ],
+          [
+            262.2656140722656,
+            360.7895357371021
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "全部⽀出",
+    "type": "Title"
+  },
+  {
+    "element_id": "4b3e4cb921fac39b231383befc29b902",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            311.9296745029297,
+            244.53954058085208
+          ],
+          [
+            311.9296745029297,
+            253.53954020585206
+          ],
+          [
+            347.9296730029297,
+            253.53954020585206
+          ],
+          [
+            347.9296730029297,
+            244.53954058085208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "⽀出⾦額",
+    "type": "Title"
+  },
+  {
+    "element_id": "35822608244ce1e452116b168bb57c42",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            328.0781113300781,
+            300.7895382371022
+          ],
+          [
+            328.0781113300781,
+            309.7895378621022
+          ],
+          [
+            356.2338717069214,
+            309.7895378621022
+          ],
+          [
+            356.2338717069214,
+            300.7895382371022
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "4b3e4cb921fac39b231383befc29b902"
+    },
+    "text": "10,000",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "2ce9c2213707a830870d3b3c118c4385",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            328.0781113300781,
+            328.53953708085214
+          ],
+          [
+            328.0781113300781,
+            337.5395367058521
+          ],
+          [
+            356.2338717069214,
+            337.5395367058521
+          ],
+          [
+            356.2338717069214,
+            328.53953708085214
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "4b3e4cb921fac39b231383befc29b902"
+    },
+    "text": "70,000",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "3496a05bbd9bac907a9f92d4d4040a36",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            320.4257716489256,
+            388.5395345808521
+          ],
+          [
+            320.4257716489256,
+            397.5395342058521
+          ],
+          [
+            348.58153202576887,
+            397.5395342058521
+          ],
+          [
+            348.58153202576887,
+            388.5395345808521
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "4b3e4cb921fac39b231383befc29b902"
+    },
+    "text": "80,000",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "10bcab9cd78b3146ddc524479f07b400",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            371.285144529785,
+            244.53954058085208
+          ],
+          [
+            371.285144529785,
+            253.53954020585206
+          ],
+          [
+            407.285143029785,
+            253.53954020585206
+          ],
+          [
+            407.285143029785,
+            244.53954058085208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "存入⾦額",
+    "type": "Title"
+  },
+  {
+    "element_id": "040d6ff37046f23b22d35a9b13510200",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            387.4335813569334,
+            273.03953939335213
+          ],
+          [
+            387.4335813569334,
+            282.0395390183521
+          ],
+          [
+            415.5893417337767,
+            282.0395390183521
+          ],
+          [
+            415.5893417337767,
+            273.03953939335213
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "10bcab9cd78b3146ddc524479f07b400"
+    },
+    "text": "80,000",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "bab1d1c1ceabff43e69da9472460c6a2",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            426.914044711914,
+            84.03954726835218
+          ],
+          [
+            426.914044711914,
+            93.03954689335217
+          ],
+          [
+            563.997047420122,
+            93.03954689335217
+          ],
+          [
+            563.997047420122,
+            84.03954726835218
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "10bcab9cd78b3146ddc524479f07b400"
+    },
+    "text": "列印時間： 2024/07/08 14:29:29",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "12d8de53c327de959de223763760b17a",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            430.6406070566406,
+            244.53954058085208
+          ],
+          [
+            430.6406070566406,
+            253.53954020585206
+          ],
+          [
+            466.6406055566406,
+            253.53954020585206
+          ],
+          [
+            466.6406055566406,
+            244.53954058085208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "帳⼾餘額",
+    "type": "Title"
+  },
+  {
+    "element_id": "cf82194f90ad396771a82db9912e9d5d",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            513.8437285898437,
+            244.53954058085208
+          ],
+          [
+            513.8437285898437,
+            253.53954020585206
+          ],
+          [
+            531.8437278398437,
+            253.53954020585206
+          ],
+          [
+            531.8437278398437,
+            244.53954058085208
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "備註",
+    "type": "Title"
+  },
+  {
+    "element_id": "7e8bc41ba09991e3d139f394fe9bd371",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            446.789043883789,
+            273.03953939335213
+          ],
+          [
+            446.789043883789,
+            282.0395390183521
+          ],
+          [
+            544.699199804199,
+            282.0395390183521
+          ],
+          [
+            544.699199804199,
+            273.03953939335213
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "cf82194f90ad396771a82db9912e9d5d"
+    },
+    "text": "80,000 台灣智慧⽣活",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "cf344b3e1607aad1e2bdc3e5f43e47bd",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            446.789043883789,
+            300.7895382371022
+          ],
+          [
+            446.789043883789,
+            309.7895378621022
+          ],
+          [
+            540.199199991699,
+            309.7895378621022
+          ],
+          [
+            540.199199991699,
+            300.7895382371022
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "cf82194f90ad396771a82db9912e9d5d"
+    },
+    "text": "70,000 額度管理費",
+    "type": "UncategorizedText"
+  },
+  {
+    "element_id": "0f32fb5d23c138ccc31341b47a5d1ab4",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            469.72264042822246,
+            328.53953708085214
+          ],
+          [
+            469.72264042822246,
+            337.5395367058521
+          ],
+          [
+            540.199199991699,
+            337.5395367058521
+          ],
+          [
+            540.199199991699,
+            328.53953708085214
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "0 履約保證費",
+    "type": "Title"
+  },
+  {
+    "element_id": "40c62d14b3b5c8212e7cb17813eab3f5",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            441.6679540971678,
+            360.7895357371021
+          ],
+          [
+            441.6679540971678,
+            369.7895353621021
+          ],
+          [
+            477.6679525971678,
+            369.7895353621021
+          ],
+          [
+            477.6679525971678,
+            360.7895357371021
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1
+    },
+    "text": "全部存入",
+    "type": "Title"
+  },
+  {
+    "element_id": "b4a5cf6d956ef0daf32b077c4c9c8000",
+    "metadata": {
+      "coordinates": {
+        "layout_height": 841.91998,
+        "layout_width": 594.95996,
+        "points": [
+          [
+            535.8398251733397,
+            388.5395345808521
+          ],
+          [
+            535.8398251733397,
+            397.5395342058521
+          ],
+          [
+            563.995585550183,
+            397.5395342058521
+          ],
+          [
+            563.995585550183,
+            388.5395345808521
+          ]
+        ],
+        "system": "PixelSpace"
+      },
+      "data_source": {
+        "date_created": "2024-10-30 12:32:49.419082",
+        "date_modified": "2024-10-30 12:32:49.206083",
+        "date_processed": "2024-10-30T12:33:07.109767",
+        "permissions_data": [
+          {
+            "mode": 33152
+          }
+        ],
+        "url": "./pdf/test1030_2.pdf"
+      },
+      "file_directory": "pdf",
+      "filename": "test1030_2.pdf",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "last_modified": "2024-10-30T12:32:49",
+      "page_number": 1,
+      "parent_id": "40c62d14b3b5c8212e7cb17813eab3f5"
+    },
+    "text": "80,000",
+    "type": "UncategorizedText"
+  }
+]
