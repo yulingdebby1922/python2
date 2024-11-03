@@ -1,0 +1,35 @@
+name: Run PDF Processing
+
+on:
+  workflow_dispatch: # 允許手動觸發
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt  # 假設有 requirements.txt，包含 unstructured-ingest
+          pip install unstructured-ingest
+
+      - name: Run PDF processing script
+        run: |
+          python process_pdfs.py
+
+      - name: Upload outputs
+        uses: actions/upload-artifact@v2
+        with:
+          name: output-files
+          path: ./output

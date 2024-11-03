@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Actions PDF Processing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+    }
+    .form-group {
+      margin-bottom: 15px;
+    }
+    .form-group label {
+      display: block;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+    .form-group input, .form-group select {
+      width: 100%;
+      padding: 8px;
+      box-sizing: border-box;
+    }
+    button {
+      padding: 10px 15px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Run PDF Processing</h1>
+  <form id="workflow-form">
+    <div class="form-group">
+      <label for="branch">Branch</label>
+      <select id="branch" name="branch">
+        <option value="main">main</option>
+        <option value="dev">dev</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="script">Script to Run</label>
+      <input type="text" id="script" name="script" value="process_pdfs.py">
+    </div>
+
+    <div class="form-group">
+      <label for="dependencies">Dependencies (Optional)</label>
+      <textarea id="dependencies" name="dependencies" rows="3" placeholder="requirements.txt"></textarea>
+    </div>
+
+    <button type="button" onclick="runWorkflow()">Run Workflow</button>
+  </form>
+
+  <div id="output" style="margin-top: 20px;"></div>
+</div>
+
+<script>
+  function runWorkflow() {
+    const branch = document.getElementById('branch').value;
+    const script = document.getElementById('script').value;
+    const dependencies = document.getElementById('dependencies').value;
+
+    const output = `
+      <h3>Workflow Parameters</h3>
+      <p><strong>Branch:</strong> ${branch}</p>
+      <p><strong>Script:</strong> ${script}</p>
+      <p><strong>Dependencies:</strong> ${dependencies}</p>
+      <p>Workflow started successfully!</p>
+    `;
+
+    document.getElementById('output').innerHTML = output;
+  }
+</script>
+
+</body>
+</html>
