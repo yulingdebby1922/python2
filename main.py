@@ -1,36 +1,47 @@
+from flask import Flask, request, render_template, send_from_directory, redirect, url_for
 import os
 import shutil
 import subprocess
 from glob import glob
 
-# 指定目錄並尋找所有 PDF 檔案
+app = Flask(__name__)
 input_dir = "./pdf"  # 放置 PDF 的資料夾
 output_dir = "./output"
 cache_dir = "/home/runner/.cache/unstructured/ingest/pipeline"
 
-# 清除快取和輸出資料夾
-for folder in [cache_dir, output_dir]:
-    if os.path.exists(folder):
-        shutil.rmtree(folder)
-        print(f"{folder} 已清除。")
-    os.makedirs(folder, exist_ok=True)
+# 初始化資料夾
+os.makedirs(input_dir, exist_ok=True)
+os.makedirs(output_dir, exist_ok=True)
 
-# 顯示 pdfs 資料夾中的檔案
-print(f"檢查 {input_dir} 資料夾中的檔案...")
-all_files = os.listdir(input_dir)
-print(f"找到以下檔案：{all_files}")
+@app.route('/')
+def index():
+    return render_template('index.html')
 
-# 尋找 PDF 檔案
-pdf_files = glob(os.path.join(input_dir, "*.pdf"))
+@app.route('/upload', methods=['POST'])
+def upload_file():
+    if 'file' not in request.files:
+        return redirect(url_for('index'))
 
-if not pdf_files:
-    print("沒有找到任何 PDF 檔案。請確認檔案已上傳至正確的資料夾。")
-    exit(1)
+    file = request.files['file']
+    if file.filename == '':
+        return redirect(url_for('index'))
 
-# 處理每一個 PDF 檔案
-for pdf_file in pdf_files:
-    print(f"正在處理檔案：{pdf_file}")
+    if file and file.filename.endswith('.pdf'):
+        file_path = os.path.join(input_dir, file.filename)
+        file.save(file_path)
+        process_pdf(file_path)
+        return redirect(url_for('download_files'))
 
+    return redirect(url_for('index'))
+
+def process_pdf(pdf_file):
+    # 清除快取和輸出資料夾
+    for folder in [cache_dir, output_dir]:
+        if os.path.exists(folder):
+            shutil.rmtree(folder)
+        os.makedirs(folder, exist_ok=True)
+
+    # 使用 unstructured-ingest 進行處理
     command = [
         "unstructured-ingest", "local",
         "--input-path", pdf_file,
@@ -45,14 +56,16 @@ for pdf_file in pdf_files:
         print(f"CLI 工具輸出內容（stdout）：\n{result.stdout}")
         print(f"CLI 工具錯誤內容（stderr）：\n{result.stderr}")
     except subprocess.CalledProcessError as e:
-        print("轉檔失敗。")
-        print(f"錯誤訊息：\n{e.stderr}")
+        print(f"轉檔失敗：{e.stderr}")
 
-# 列出輸出資料夾的內容
-files = os.listdir(output_dir)
-if files:
-    print("輸出資料夾的檔案：")
-    for f in files:
-        print(f"- {f}")
-else:
-    print("輸出資料夾中沒有任何檔案。")
+@app.route('/download')
+def download_files():
+    files = os.listdir(output_dir)
+    return render_template('download.html', files=files)
+
+@app.route('/download/<filename>')
+def download_file(filename):
+    return send_from_directory(output_dir, filename)
+
+if __name__ == '__main__':
+    app.run(debug=True)
